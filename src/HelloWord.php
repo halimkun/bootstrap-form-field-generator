@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Sfmok\HelloWorld;
+namespace Halimkun\BootstrapFormFieldGenerator;
 
 final class HelloWorld
 {
