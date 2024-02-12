@@ -1,0 +1,20 @@
+{
+    "name": "halimkun/bootstrap-form-field-generator",
+    "description": "A simple PHP library to generate Bootstrap form fields",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Halimkun\\BootstrapFormFieldGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FAISAL HALIM",
+            "email": "ffaisalhalim@gmail.com"
+        }
+    ]
+}
