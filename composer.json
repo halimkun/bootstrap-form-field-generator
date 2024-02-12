@@ -11,10 +11,13 @@
             "Halimkun\\BootstrapFormFieldGenerator\\": "src/"
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "FAISAL HALIM",
-            "email": "ffaisalhalim@gmail.com"
+            "email": "ffaisalhalim@gmail.com",
+            "role": "Developer"
         }
     ]
 }
